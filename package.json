@@ -9,7 +9,7 @@
   "author": "Rodrigo Schieck",
   "license": "MIT",
   "dependencies": {
-    "electron": "^7.1.3"
+    "electron": "^18.3.7"
   }
 }
  
